@@ -1,0 +1,21 @@
+body {
+    color:olivedrab;
+    background: oldlace;
+    
+}
+
+head{
+    border-bottom: solid 2px rgb(100, 140, 80);
+}
+
+section{
+    background: rgb(184, 156, 200);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+.chamada-texto{
+    margin-right: 5%;
+}
